@@ -22,7 +22,7 @@ This repository contains the code, report, and presentation materials for a univ
 
 ## Dataset
 The project uses the **PlantVillage Dataset**, a publicly available collection of over 54,000 images of healthy and diseased leaves from 14 plant species, covering 26 disease types.  
-- **Source**: [PlantVillage-Dataset on GitHub](https://github.com/spMohanty/PlantVillage-Dataset)  
+- **Source**: [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 - **Format**: RGB images organized into folders by class (healthy or diseased).
 
 Alternatively, custom datasets can be created by photographing leaves and manually annotating them.
